@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -348,19 +335,7 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | NBA Heroes Wiki",
-      "description": "Complete boss guides for NBA Heroes — strategies, rewards, and tips for every challenge encounter."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in NBA Heroes, with strategies, rewards, and tips to clear each challenge.",
-    "body": "Bosses in NBA Heroes are special challenge encounters that test your skills between matches. Each boss has its own attack patterns, phases, and rewards, so study the fight before you commit. Use the guides below to prepare your hero, learn the mechanics, and clear every challenge.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
