@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Player Abilities, Tier Lists, Codes & Basketball Guides",
   description: "Your ultimate NBA Heroes Roblox wiki! Explore player abilities, best heroes tier lists, active codes, 3v3 gameplay guides and basketball tips.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://nba-heroes.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://nba-heroes.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@nba-heroes.wiki",
   gameUrl: "https://www.roblox.com/games/126424052816775/NBA-Heroes",
   heroVideoId: "OgX2qoryNbU", // NBA Heroes Roblox gameplay showcase
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/126424052816775/NBA-Heroes",
+    youtube: "https://www.youtube.com/@Roblox",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
