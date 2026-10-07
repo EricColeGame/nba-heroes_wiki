@@ -43,96 +43,78 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the basics of NBA Heroes: controls, 3v3 match flow, scoring, and how to level up your first hero."
+          "description": "Learn the NBA Heroes basics: hero archetypes, the five core attributes, shot timing, and how 3v3 and 5v5 matches flow."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Earn XP and unlock new abilities quickly with the most efficient early-game routes and match strategies."
+          "description": "Farm XP efficiently with daily challenge drills, ranked PvP matches, and early attribute goals that raise your roster's ceilings."
         },
         {
           "number": "3",
           "title": "Best Builds",
-          "description": "Choose the right ability loadout, badges, and stat spread for your playstyle and team role."
+          "description": "Spend attribute points and badge tiers across Finishing, Shooting, Playmaking, Defense/Rebounding, and Physicals to fit your playstyle."
         },
         {
           "number": "4",
           "title": "Codes & Rewards",
-          "description": "Redeem working NBA Heroes codes for free rewards, then reinvest them into upgrades and cosmetics."
+          "description": "Redeem working NBA Heroes codes for player packs, skill badges, and training boosts, then reinvest them into your roster."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending NBA Heroes Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Codes",
+        "Tier List",
+        "Best Builds"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "NBA Heroes Beginner Guide",
+          "description": "Learn hero archetypes, core attributes, shot timing, and team synergy before your first ranked match.",
+          "href": "/guide/nba-heroes-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "NBA Heroes Codes",
+          "description": "Track active reward drops, redemption steps, and which free packs are worth claiming first.",
+          "href": "/codes/nba-heroes-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "NBA Heroes Player Tier List",
+          "description": "Every hero ranked by ability kit, positional versatility, synergy, and resource efficiency.",
+          "href": "/characters/nba-heroes-player-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "NBA Heroes Best Builds",
+          "description": "Attribute breakpoints, badge tiers, and archetype setups for scoring, playmaking, and defense.",
+          "href": "/mechanics/nba-heroes-builds"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "NBA Heroes Players List",
+          "description": "The full roster of hero archetypes, signature abilities, and the best role for each character.",
+          "href": "/characters/nba-heroes-players-list"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "NBA Heroes Gameplay Tips",
+          "description": "Shot selection, defensive coverages, stamina pacing, and timeout calls that win close matches.",
+          "href": "/guide/nba-heroes-tips-and-tricks"
         }
       ]
     },
     "aboutGame": {
       "title": "What is NBA Heroes?",
       "paragraphs": [
-        "NBA Heroes is a fast-paced Roblox basketball game built around 3v3 matches and NBA-inspired heroes. Pick a player, master unique abilities, and outscore your opponents with teamwork and skill.",
-        "Whether you are learning the basics, climbing the competitive ladder, or hunting for the best hero builds, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "NBA Heroes is a Roblox basketball game that turns real-world superstars into comic-style heroes with active skills, passive boosts, and game-breaking ultimates. Matches blend authentic 3v3 and 5v5 basketball with arcade shot timing, stamina management, and a Hero Gauge that powers signature moves.",
+        "Players build a roster from archetypes such as Kinetic Marksman, Force-Multiplier Titan, Velocity Speedster, and Shadow Sentinel, then spend attribute points across Finishing, Shooting, Playmaking, Defense/Rebounding, and Physicals. Our wiki breaks down hero abilities, builds, codes, tier rankings, and progression so you can climb the ranked ladder."
       ],
       "stats": [
         {
@@ -172,159 +154,257 @@
       "modules": [
         {
           "order": 1,
-          "name": "NBA Heroes Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, cosmetics, and boost items before they expire.",
+          "name": "NBA Heroes Codes",
+          "description": "Track the latest NBA Heroes codes, reward drops, and redemption steps, and learn which free packs and boosts are worth claiming first.",
           "href": "/codes/nba-heroes-codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "COMING-SOON",
-              "detail": "No active codes currently available"
+              "label": "NO-ACTIVE",
+              "detail": "There are no active NBA Heroes codes right now; new reward drops usually arrive with weekly updates."
             },
             {
-              "label": "STAY-TUNED",
-              "detail": "Check back soon for new codes"
+              "label": "REDEEM-STEPS",
+              "detail": "Open the in-game Settings menu, find the Codes or Promo Code box, paste the code, then press Redeem."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; redeem them from the in-game settings menu"
+              "label": "CASE-SENSITIVE",
+              "detail": "NBA Heroes codes are case-sensitive, so copy the string exactly and remove any trailing spaces."
+            },
+            {
+              "label": "REWARD-TYPES",
+              "detail": "Typical rewards include player packs, skill badges, and attribute training boosts for your roster."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Play & Win Matches",
-          "description": "Step-by-step beginner guide covering controls, movement, shooting, defense, and 3v3 teamwork.",
+          "name": "NBA Heroes Beginner Guide",
+          "description": "A step-by-step NBA Heroes beginner guide covering hero archetypes, core attributes, shot timing, and how to win your first matches.",
           "href": "/guide/nba-heroes-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Pick a balanced starter hero and learn the basic controls"
+              "detail": "Pick a balanced starting hero and learn the five core attributes: Finishing, Shooting, Playmaking, Defense/Rebounding, and Physicals."
             },
             {
               "label": "2",
-              "detail": "Practice shooting, passing, and defensive positioning in quick matches"
+              "detail": "Practice the shot meter and release at the apex of the jump to hit the green window and build Hero Gauge."
             },
             {
               "label": "3",
-              "detail": "Play 3v3 with teammates and communicate to create open shots"
+              "detail": "Manage stamina, because sprinting drains the gauge and shrinks your green release window late in possessions."
+            },
+            {
+              "label": "4",
+              "detail": "Build lineup synergy with complementary archetypes instead of stacking five pure scorers."
+            },
+            {
+              "label": "5",
+              "detail": "Complete daily challenge drills and early matches to earn XP and unlock your first skill slots."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Hero Tier List",
-          "description": "Complete ranking of every NBA Heroes player by scoring, defense, and playmaking value.",
-          "href": "/tier-list/nba-heroes-tier-list",
+          "name": "NBA Heroes Player Tier List",
+          "description": "See how every NBA Heroes player ranks by ability kit, positional versatility, synergy compatibility, and resource efficiency.",
+          "href": "/characters/nba-heroes-player-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Top scorers and two-way stars — best picks for climbing"
+              "detail": "Meta-defining two-way stars with game-breaking ultimates and the safest picks for climbing ranked."
             },
             {
               "label": "A",
-              "detail": "Strong all-around heroes with reliable abilities"
+              "detail": "Versatile heroes with reliable abilities that fit almost any lineup or playstyle."
             },
             {
               "label": "B",
-              "detail": "Solid role players that shine with the right build"
+              "detail": "Solid role players who shine when paired with the right badges and synergy partners."
             },
             {
               "label": "C",
-              "detail": "Situational picks that need extra support"
+              "detail": "Situational picks that need extra support and heavy investment to stay competitive."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Abilities & Builds",
-          "description": "Optimal ability loadouts, badges, and upgrade priorities for every hero role.",
-          "href": "/guide/nba-heroes-best-builds",
+          "name": "NBA Heroes Players Guide",
+          "description": "Browse the full NBA Heroes players list, including hero archetypes, signature abilities, and the best roster role for each character.",
+          "href": "/characters/nba-heroes-players-list",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🏀",
-              "detail": "Scoring builds — maximize shooting and finishing"
+              "label": "Marksman",
+              "detail": "Kinetic snipers who stretch the floor with shots that expand their effective three-point range."
             },
             {
-              "label": "🛡️",
-              "detail": "Defensive builds — steals, blocks, and rebounds"
+              "label": "Titan",
+              "detail": "Force-multiplier bigs built for rim protection, rebounds, and rim-rattling dunks."
             },
             {
-              "label": "🎯",
-              "detail": "Playmaker builds — passing, speed, and court vision"
+              "label": "Speedster",
+              "detail": "Velocity playmakers who push tempo and blow past defenders in transition."
+            },
+            {
+              "label": "Sentinel",
+              "detail": "Shadow lockdown defenders who steal passing lanes and neutralize opposing superpowers."
+            },
+            {
+              "label": "Hybrid",
+              "detail": "Hybrid apex stars who can score, create, and defend at an elite level."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Earn Coins Fast",
-          "description": "Top money-making strategies, match rewards, and daily objective tips.",
-          "href": "/guide/nba-heroes-how-to-earn-coins-fast",
-          "displayType": "step-by-step",
+          "name": "NBA Heroes Abilities Guide",
+          "description": "Understand NBA Heroes abilities, badge tiers, and attribute breakpoints so you can build a hero that fits your team.",
+          "href": "/mechanics/nba-heroes-builds",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Complete daily objectives for guaranteed coin rewards"
+              "label": "Finishing",
+              "detail": "Interior scoring and dunk packages that punish mismatches in the paint."
             },
             {
-              "label": "2",
-              "detail": "Win 3v3 matches to maximize your end-of-match payout"
+              "label": "Shooting",
+              "detail": "Perimeter accuracy, release timing, and badges that extend your effective range."
             },
             {
-              "label": "3",
-              "detail": "Reinvest coins into upgrades that improve your match performance"
+              "label": "Playmaking",
+              "detail": "Ball handling and passing skills, including an 85 Ball Handle unlock for elite dribble moves."
+            },
+            {
+              "label": "Defense",
+              "detail": "Steals, blocks, and rebounds, where a longer wingspan raises block and deflection ratings."
+            },
+            {
+              "label": "Physicals",
+              "detail": "Speed, vertical, and strength, where 80 Vertical plus 84 Driving Dunk unlocks posterizer animations."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Hero Progression & Upgrades",
-          "description": "Level up heroes, unlock abilities, and spend upgrades efficiently as you progress.",
-          "href": "/guide/nba-heroes-progression-guide",
+          "name": "NBA Heroes Controls Guide",
+          "description": "Learn NBA Heroes controls for shooting, dribbling, passing, blocking, and hustle plays with the input timing for each move.",
+          "href": "/mechanics/nba-heroes-game",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SHOOT",
+              "detail": "Hold and release the shot button or stick at the apex of the jump to hit the green window."
+            },
+            {
+              "label": "CROSSOVER",
+              "detail": "Flick the right stick during a drive to break your defender's balance and create open space."
+            },
+            {
+              "label": "BLOCK",
+              "detail": "Time the block button with directional up as the ball leaves the shooter's hands to swat or deflect it."
+            },
+            {
+              "label": "PASS",
+              "detail": "Use the pass plus modifier button to fire a bounce dish past long wingspans in a crowded lane."
+            },
+            {
+              "label": "HUSTLE",
+              "detail": "Tap sprint plus hustle on a loose ball to win the dive frame and secure possession."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "NBA Heroes Gameplay Tips",
+          "description": "Win more NBA Heroes matches with proven tips for shot selection, defensive coverages, stamina pacing, and late-game timeouts.",
+          "href": "/guide/nba-heroes-tips-and-tricks",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "⭐",
-              "detail": "Level up your favorite heroes to unlock new abilities"
+              "label": "Spacing",
+              "detail": "Run pick-and-roll and step-back actions to create open looks instead of forcing contested shots."
             },
             {
-              "label": "⚡",
-              "detail": "Upgrade key abilities first for the biggest impact"
+              "label": "Defense",
+              "detail": "Switch between drop coverage, switch-all, and traps to counter the opponent's favorite plays."
             },
             {
-              "label": "🏆",
-              "detail": "Track weekly updates for new heroes and balance changes"
+              "label": "Stamina",
+              "detail": "Avoid constant sprinting so your green release window stays wide in the fourth quarter."
+            },
+            {
+              "label": "Rotation",
+              "detail": "Rotate bench players early to keep your primary ball handler fresh for clutch possessions."
+            },
+            {
+              "label": "Timeouts",
+              "detail": "Call tactical timeouts to stop an opponent's scoring run and reset your lineup's stamina."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "NBA Heroes Updates",
+          "description": "Follow NBA Heroes update notes covering balance changes, new heroes, event modes, and the meta shifts that matter most.",
+          "href": "/guide/nba-heroes-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Contest",
+              "detail": "Adjusted perimeter closeout hitboxes reduce uncontested threes and reward good footwork."
+            },
+            {
+              "label": "Stamina",
+              "detail": "Turbo sprinting drains more stamina, discouraging constant baseline-to-baseline runs."
+            },
+            {
+              "label": "Cooldowns",
+              "detail": "Ultimate hero abilities gained an 8% cooldown extension for more tactical late-game use."
+            },
+            {
+              "label": "Badges",
+              "detail": "Reworked badge chemistry multipliers encourage diverse lineups over powerhouse duos."
+            },
+            {
+              "label": "Turnovers",
+              "detail": "Blind cross-court passes carry a higher interception risk, emphasizing deliberate ball movement."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about NBA Heroes.",
+      "title": "NBA Heroes FAQ",
+      "description": "Quick answers to the most common questions about NBA Heroes codes, heroes, and progression.",
       "items": [
         {
           "question": "What is NBA Heroes?",
-          "answer": "NBA Heroes is a free-to-play Roblox basketball game focused on fast-paced 3v3 matches. You pick NBA-inspired heroes, each with unique abilities, and compete to outscore the opposing team."
+          "answer": "NBA Heroes is a Roblox basketball game that mixes 3v3 and 5v5 matches with hero abilities, letting NBA-inspired characters use signature skills powered by the Hero Gauge."
         },
         {
-          "question": "Which hero should beginners pick?",
-          "answer": "Start with a balanced all-around hero that is easy to control, then experiment with specialist scorers and defenders once you learn the match flow."
+          "question": "Are there any working NBA Heroes codes?",
+          "answer": "There are no active NBA Heroes codes right now, but new reward drops usually arrive with weekly updates, so check the codes page regularly."
         },
         {
-          "question": "Are there active NBA Heroes codes?",
-          "answer": "There are currently no confirmed working codes. Check the Codes page regularly for new rewards and redeem instructions."
+          "question": "Which hero should beginners pick in NBA Heroes?",
+          "answer": "Start with a balanced Hybrid Apex hero in NBA Heroes, learn the shot meter and stamina system, then branch into a Kinetic Marksman or a Force-Multiplier Titan."
         },
         {
-          "question": "What game modes are available?",
-          "answer": "The core mode is 3v3 basketball, with quick matches, progression rewards, and competitive play against other Roblox players."
+          "question": "How do you level up fast in NBA Heroes?",
+          "answer": "Complete daily challenge drills, win ranked PvP matches, and finish limited event quests to earn NBA Heroes XP and raise your roster's attribute ceilings."
         },
         {
-          "question": "How often is NBA Heroes updated?",
-          "answer": "NBA Heroes receives updates on a weekly cadence, adding new heroes, abilities, balance changes, and limited-time rewards."
+          "question": "Is NBA Heroes free to play?",
+          "answer": "Yes, NBA Heroes is free to play on Roblox, and optional purchases speed up progression without blocking access to matches, heroes, or codes."
+        },
+        {
+          "question": "How often does NBA Heroes get updated?",
+          "answer": "NBA Heroes receives weekly updates that add new heroes, rebalance abilities, refresh event modes, and introduce limited-time NBA Heroes codes."
         }
       ]
     },
