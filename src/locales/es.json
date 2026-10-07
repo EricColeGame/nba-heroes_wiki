@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "NBA Heroes Wiki",
+    "shortName": "NBA Heroes",
+    "tagline": "Habilidades de jugadores, listas de niveles, códigos y guías de baloncesto",
+    "description": "¡Tu wiki definitiva de NBA Heroes en Roblox! Explora las habilidades de los jugadores, las mejores listas de niveles de héroes, los códigos activos, las guías de juego 3v3 y los consejos de baloncesto.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "codes": "Códigos",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "community": "Comunidad",
+    "items": "Objetos"
+  },
+  "home": {
+    "meta": {
+      "title": "NBA Heroes Wiki: códigos, guías y consejos de baloncesto",
+      "description": "NBA Heroes Wiki ofrece guías de baloncesto de Roblox, habilidades de jugadores, novedades del juego, consejos y estrategias para ayudar a los jugadores a dominar los partidos competitivos 3v3."
+    },
+    "hero": {
+      "eyebrow": "Juego de baloncesto 3v3 trepidante en Roblox",
+      "title": "NBA Heroes Wiki",
+      "description": "NBA Heroes Wiki es un recurso de fans para jugadores de baloncesto de Roblox, con habilidades de jugadores, guías de juego, builds, actualizaciones y consejos competitivos.",
+      "stats": [
+        "2.39K jugadores en el pico",
+        "Modo de juego 3v3",
+        "0 códigos activos",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Lista de niveles de héroes",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en NBA Heroes",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende lo básico de NBA Heroes: arquetipos de héroes, los cinco atributos principales, el timing de tiro y cómo se desarrollan los partidos 3v3 y 5v5."
+        },
+        {
+          "number": "2",
+          "title": "Subida de nivel más rápida",
+          "description": "Consigue XP de forma eficiente con los desafíos diarios, los partidos PvP clasificatorios y objetivos de atributos tempranos que elevan el techo de tu plantilla."
+        },
+        {
+          "number": "3",
+          "title": "Mejores builds",
+          "description": "Reparte puntos de atributo y niveles de insignia entre Finalización, Tiro, Creación de juego, Defensa/Rebote y Físico para adaptarlos a tu estilo de juego."
+        },
+        {
+          "number": "4",
+          "title": "Códigos y recompensas",
+          "description": "Canjea códigos activos de NBA Heroes para conseguir packs de jugadores, insignias de habilidad y mejoras de entrenamiento, y reinviértelos en tu plantilla."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de NBA Heroes en tendencia",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Códigos",
+        "Lista de niveles",
+        "Mejores builds"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de NBA Heroes",
+          "description": "Aprende los arquetipos de héroes, los atributos principales, el timing de tiro y la sinergia de equipo antes de tu primer partido clasificatorio.",
+          "href": "/guide/nba-heroes-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos de NBA Heroes",
+          "description": "Sigue las recompensas activas, los pasos de canje y qué packs gratuitos conviene reclamar primero.",
+          "href": "/codes/nba-heroes-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de niveles de jugadores de NBA Heroes",
+          "description": "Todos los héroes clasificados por su kit de habilidades, versatilidad posicional, sinergia y eficiencia de recursos.",
+          "href": "/characters/nba-heroes-player-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores builds de NBA Heroes",
+          "description": "Puntos de corte de atributos, niveles de insignia y configuraciones de arquetipo para anotar, crear juego y defender.",
+          "href": "/mechanics/nba-heroes-builds"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Lista de jugadores de NBA Heroes",
+          "description": "La plantilla completa de arquetipos de héroes, habilidades características y el mejor rol para cada personaje.",
+          "href": "/characters/nba-heroes-players-list"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Consejos de juego de NBA Heroes",
+          "description": "Selección de tiro, coberturas defensivas, gestión del aguante y tiempos muertos que deciden los partidos igualados.",
+          "href": "/guide/nba-heroes-tips-and-tricks"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es NBA Heroes?",
+      "paragraphs": [
+        "NBA Heroes es un juego de baloncesto de Roblox que convierte a las superestrellas del mundo real en héroes de estilo cómic con habilidades activas, mejoras pasivas y definitivas rompepartidos. Los partidos combinan el baloncesto auténtico 3v3 y 5v5 con un timing de tiro arcade, gestión del aguante y una Barra de Héroe que potencia los movimientos característicos.",
+        "Los jugadores crean una plantilla a partir de arquetipos como Tirador Cinético, Titán Multiplicador de Fuerza, Velocista y Centinela Sombrío, y luego reparten puntos de atributo entre Finalización, Tiro, Creación de juego, Defensa/Rebote y Físico. Nuestra wiki desglosa las habilidades de los héroes, builds, códigos, clasificaciones por niveles y progresión para que puedas escalar en la liga clasificatoria."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Baloncesto 3v3"
+        },
+        {
+          "label": "Modo de juego",
+          "value": "3v3"
+        },
+        {
+          "label": "Jugadores en el pico",
+          "value": "2.39K"
+        },
+        {
+          "label": "Códigos activos",
+          "value": "0"
+        },
+        {
+          "label": "Frecuencia de actualización",
+          "value": "Semanal"
+        },
+        {
+          "label": "Plantilla de héroes",
+          "value": "Inspirado en la NBA"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de NBA Heroes",
+      "description": "Domina el baloncesto de Roblox con guías esenciales de héroes, códigos activos, análisis de habilidades y estrategias competitivas 3v3.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de NBA Heroes",
+          "description": "Sigue los últimos códigos de NBA Heroes, las recompensas y los pasos de canje, y descubre qué packs y mejoras gratuitas conviene reclamar primero.",
+          "href": "/codes/nba-heroes-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "NO-ACTIVE",
+              "detail": "Ahora mismo no hay códigos activos de NBA Heroes; las nuevas recompensas suelen llegar con las actualizaciones semanales."
+            },
+            {
+              "label": "REDEEM-STEPS",
+              "detail": "Abre el menú de Ajustes del juego, busca el cuadro de Códigos o Código promocional, pega el código y pulsa Canjear."
+            },
+            {
+              "label": "CASE-SENSITIVE",
+              "detail": "Los códigos de NBA Heroes distinguen mayúsculas y minúsculas, así que copia la cadena exactamente y elimina los espacios finales."
+            },
+            {
+              "label": "REWARD-TYPES",
+              "detail": "Las recompensas habituales incluyen packs de jugadores, insignias de habilidad y mejoras de entrenamiento de atributos para tu plantilla."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de NBA Heroes",
+          "description": "Una guía paso a paso de NBA Heroes para principiantes que abarca arquetipos de héroes, atributos principales, timing de tiro y cómo ganar tus primeros partidos.",
+          "href": "/guide/nba-heroes-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Elige un héroe inicial equilibrado y aprende los cinco atributos principales: Finalización, Tiro, Creación de juego, Defensa/Rebote y Físico."
+            },
+            {
+              "label": "2",
+              "detail": "Practica el medidor de tiro y suelta en el punto más alto del salto para acertar la ventana verde y llenar la Barra de Héroe."
+            },
+            {
+              "label": "3",
+              "detail": "Gestiona el aguante, porque esprintar lo agota y reduce tu ventana de suelta verde al final de las posesiones."
+            },
+            {
+              "label": "4",
+              "detail": "Crea sinergia en la alineación con arquetipos complementarios en lugar de acumular cinco anotadores puros."
+            },
+            {
+              "label": "5",
+              "detail": "Completa los desafíos diarios y los primeros partidos para ganar XP y desbloquear tus primeras ranuras de habilidad."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lista de niveles de jugadores de NBA Heroes",
+          "description": "Descubre cómo se clasifica cada jugador de NBA Heroes según su kit de habilidades, versatilidad posicional, compatibilidad de sinergia y eficiencia de recursos.",
+          "href": "/characters/nba-heroes-player-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Estrellas bidireccionales que definen el meta, con definitivas rompepartidos y las elecciones más seguras para escalar en clasificatoria."
+            },
+            {
+              "label": "A",
+              "detail": "Héroes versátiles con habilidades fiables que encajan en casi cualquier alineación o estilo de juego."
+            },
+            {
+              "label": "B",
+              "detail": "Jugadores de rol sólidos que destacan al combinarse con las insignias y compañeros de sinergia adecuados."
+            },
+            {
+              "label": "C",
+              "detail": "Elecciones situacionales que necesitan apoyo extra e inversión elevada para mantenerse competitivas."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de jugadores de NBA Heroes",
+          "description": "Explora la lista completa de jugadores de NBA Heroes, con arquetipos de héroes, habilidades características y el mejor rol de plantilla para cada personaje.",
+          "href": "/characters/nba-heroes-players-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tirador",
+              "detail": "Francotiradores cinéticos que abren la cancha con tiros que amplían su rango efectivo de tres puntos."
+            },
+            {
+              "label": "Titán",
+              "detail": "Pívots multiplicadores de fuerza hechos para proteger el aro, rebotear y machacar."
+            },
+            {
+              "label": "Velocista",
+              "detail": "Creadores de juego veloces que suben el ritmo y superan a los defensores en transición."
+            },
+            {
+              "label": "Centinela",
+              "detail": "Defensores sombríos que roban líneas de pase y neutralizan los superpoderes rivales."
+            },
+            {
+              "label": "Híbrido",
+              "detail": "Estrellas híbridas de élite que pueden anotar, crear y defender a un nivel sobresaliente."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de habilidades de NBA Heroes",
+          "description": "Comprende las habilidades de NBA Heroes, los niveles de insignia y los puntos de corte de atributos para crear un héroe que encaje en tu equipo.",
+          "href": "/mechanics/nba-heroes-builds",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Finalización",
+              "detail": "Anotación interior y paquetes de mate que castigan los desajustes en la pintura."
+            },
+            {
+              "label": "Tiro",
+              "detail": "Precisión exterior, timing de suelta e insignias que amplían tu rango efectivo."
+            },
+            {
+              "label": "Creación de juego",
+              "detail": "Habilidad de bote y pase, incluido el desbloqueo de 85 de Manejo de balón para movimientos de regate de élite."
+            },
+            {
+              "label": "Defensa",
+              "detail": "Robos, tapones y rebotes, donde una mayor envergadura eleva las calificaciones de tapón y desvío."
+            },
+            {
+              "label": "Físico",
+              "detail": "Velocidad, salto y fuerza, donde 80 de Salto vertical más 84 de Mate en penetración desbloquea animaciones de posterizador."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de controles de NBA Heroes",
+          "description": "Aprende los controles de NBA Heroes para tirar, botar, pasar, taponar y jugadas de esfuerzo, con el timing de entrada de cada movimiento.",
+          "href": "/mechanics/nba-heroes-game",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SHOOT",
+              "detail": "Mantén y suelta el botón o stick de tiro en el punto más alto del salto para acertar la ventana verde."
+            },
+            {
+              "label": "CROSSOVER",
+              "detail": "Desliza el stick derecho durante una penetración para desequilibrar a tu defensor y crear espacio."
+            },
+            {
+              "label": "BLOCK",
+              "detail": "Sincroniza el botón de tapón con arriba en el direccional cuando el balón salga de las manos del tirador para taponarlo o desviarlo."
+            },
+            {
+              "label": "PASS",
+              "detail": "Usa el botón de pase más el modificador para lanzar un pase picado por encima de envergaduras largas en un carril congestionado."
+            },
+            {
+              "label": "HUSTLE",
+              "detail": "Pulsa sprint más esfuerzo sobre un balón suelto para ganar el lance y asegurar la posesión."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos de juego de NBA Heroes",
+          "description": "Gana más partidos de NBA Heroes con consejos probados de selección de tiro, coberturas defensivas, gestión del aguante y tiempos muertos al final.",
+          "href": "/guide/nba-heroes-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Espaciado",
+              "detail": "Ejecuta bloqueos y continuaciones y pasos atrás para crear tiros libres en vez de forzar tiros contestados."
+            },
+            {
+              "label": "Defensa",
+              "detail": "Alterna entre cobertura de repliegue, cambios en todo y trampas para contrarrestar las jugadas favoritas del rival."
+            },
+            {
+              "label": "Aguante",
+              "detail": "Evita esprintar sin parar para que tu ventana de suelta verde siga siendo amplia en el último cuarto."
+            },
+            {
+              "label": "Rotación",
+              "detail": "Rota a los suplentes pronto para mantener fresco a tu base principal en las posesiones decisivas."
+            },
+            {
+              "label": "Tiempos muertos",
+              "detail": "Pide tiempos muertos tácticos para frenar la racha anotadora del rival y recuperar el aguante de tu alineación."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de NBA Heroes",
+          "description": "Sigue las notas de actualización de NBA Heroes con cambios de equilibrio, nuevos héroes, modos de evento y los cambios de meta más importantes.",
+          "href": "/guide/nba-heroes-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Contestación",
+              "detail": "Los hitboxes ajustados de cierre perimetral reducen los triples sin oposición y premian el buen juego de pies."
+            },
+            {
+              "label": "Aguante",
+              "detail": "El sprint turbo agota más aguante, lo que desincentiva las carreras constantes de un extremo a otro."
+            },
+            {
+              "label": "Enfriamientos",
+              "detail": "Las definitivas de héroe ganaron un 8 % más de enfriamiento para un uso táctico al final del partido."
+            },
+            {
+              "label": "Insignias",
+              "detail": "Los multiplicadores de química de insignias rediseñados fomentan alineaciones diversas frente a dúos dominantes."
+            },
+            {
+              "label": "Pérdidas",
+              "detail": "Los pases ciegos de lado a lado conllevan mayor riesgo de intercepción, lo que prima el movimiento deliberado del balón."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de NBA Heroes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre los códigos, los héroes y la progresión de NBA Heroes.",
+      "items": [
+        {
+          "question": "¿Qué es NBA Heroes?",
+          "answer": "NBA Heroes es un juego de baloncesto de Roblox que mezcla partidos 3v3 y 5v5 con habilidades de héroe, permitiendo que personajes inspirados en la NBA usen habilidades características impulsadas por la Barra de Héroe."
+        },
+        {
+          "question": "¿Hay códigos de NBA Heroes que funcionen?",
+          "answer": "Ahora mismo no hay códigos activos de NBA Heroes, pero las nuevas recompensas suelen llegar con las actualizaciones semanales, así que revisa la página de códigos con regularidad."
+        },
+        {
+          "question": "¿Qué héroe deberían elegir los principiantes en NBA Heroes?",
+          "answer": "Empieza con un héroe Híbrido de élite equilibrado en NBA Heroes, aprende el medidor de tiro y el sistema de aguante, y luego pasa a un Tirador Cinético o un Titán Multiplicador de Fuerza."
+        },
+        {
+          "question": "¿Cómo se sube de nivel rápido en NBA Heroes?",
+          "answer": "Completa los desafíos diarios, gana partidos PvP clasificatorios y termina las misiones de eventos limitados para ganar XP de NBA Heroes y elevar el techo de atributos de tu plantilla."
+        },
+        {
+          "question": "¿NBA Heroes es gratis?",
+          "answer": "Sí, NBA Heroes es gratis en Roblox, y las compras opcionales aceleran la progresión sin bloquear el acceso a partidos, héroes o códigos."
+        },
+        {
+          "question": "¿Con qué frecuencia se actualiza NBA Heroes?",
+          "answer": "NBA Heroes recibe actualizaciones semanales que añaden nuevos héroes, reequilibran habilidades, renuevan modos de evento e introducen códigos temporales de NBA Heroes."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar NBA Heroes?",
+      "description": "Desde tu primer partido 3v3 hasta el dominio competitivo, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Juega en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía para principiantes de NBA Heroes",
+    "overviewDescription": "Empieza con fuerza en NBA Heroes con tutoriales para principiantes, consejos y trucos, hojas de ruta de progresión y análisis de actualizaciones."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de NBA Heroes",
+    "overviewDescription": "Todos los códigos activos de NBA Heroes, cómo canjearlos y las recompensas que desbloquean para tu plantilla."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y lista de niveles de NBA Heroes",
+    "overviewDescription": "Clasifica a todos los jugadores de NBA Heroes, compara arquetipos de héroes y encuentra la mejor plantilla para tu estilo de juego."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de NBA Heroes",
+    "overviewDescription": "Aprende cómo funciona NBA Heroes: supermovimientos, mates, duelos 1v1, builds, posicionamiento en la cancha y estructura de los partidos."
+  },
+  "progression": {
+    "overviewTitle": "Subida de nivel y progresión en NBA Heroes",
+    "overviewDescription": "Sube de nivel más rápido en NBA Heroes con farmeo de XP, escalada de rango, rachas de victorias y estrategias de clasificación."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de NBA Heroes",
+    "overviewDescription": "Únete al Discord, al grupo de Roblox y a la comunidad de Reddit de NBA Heroes para intercambios, torneos y charla sobre el meta."
+  },
+  "items": {
+    "overviewTitle": "Cartas de héroe y objetos de NBA Heroes",
+    "overviewDescription": "Colecciona y mejora cartas de héroe, figuras de acción, juguetes y coleccionables secretos de NBA Heroes."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "NBA Heroes Wiki",
+    "about": "NBA Heroes Wiki es un centro de guías independiente creado por fans que cubre héroes, habilidades, códigos, builds y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 NBA Heroes Wiki. Sin afiliación con Roblox ni con la NBA.",
+    "description": "Baloncesto 3v3 gratuito en Roblox. Héroes inspirados en la NBA, habilidades y actualizaciones semanales.",
+    "playGame": "Juega a NBA Heroes en Roblox",
+    "officialDiscord": "Comunidad de Roblox",
+    "officialYoutube": "Roblox en YouTube",
+    "vvBuilder": "Planificador de builds de héroes",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "heroGuides": "Guías de héroes",
+    "codesGuide": "Códigos y recompensas",
+    "progressionGuide": "Subida de nivel y progresión"
+  }
+}
