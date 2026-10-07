@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -32,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/games/126424052816775/NBA-Heroes",
     youtube: "https://www.youtube.com/@Roblox",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: routing.locales,
   defaultLocale: "en",
 };
