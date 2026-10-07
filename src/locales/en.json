@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "community": "Community",
+    "items": "Items"
   },
   "home": {
     "meta": {
@@ -415,7 +422,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "NBA Heroes Beginner Guide",
+    "overviewDescription": "Start strong in NBA Heroes with beginner walkthroughs, tips and tricks, progression roadmaps, and update breakdowns."
+  },
+  "codes": {
+    "overviewTitle": "NBA Heroes Codes",
+    "overviewDescription": "All working NBA Heroes codes, how to redeem them, and the rewards they unlock for your roster."
+  },
+  "characters": {
+    "overviewTitle": "NBA Heroes Characters & Tier List",
+    "overviewDescription": "Rank every NBA Heroes player, compare hero archetypes, and find the best roster for your playstyle."
+  },
+  "mechanics": {
+    "overviewTitle": "NBA Heroes Gameplay Mechanics",
+    "overviewDescription": "Learn how NBA Heroes works: super moves, dunks, 1v1 duels, builds, court positioning, and match structure."
+  },
+  "progression": {
+    "overviewTitle": "NBA Heroes Leveling & Progression",
+    "overviewDescription": "Level up faster in NBA Heroes with XP farming, rank climbing, win streaks, and leaderboard strategies."
+  },
+  "community": {
+    "overviewTitle": "NBA Heroes Community",
+    "overviewDescription": "Join the NBA Heroes Discord, Roblox group, and Reddit community for trades, tournaments, and meta talk."
+  },
+  "items": {
+    "overviewTitle": "NBA Heroes Hero Cards & Items",
+    "overviewDescription": "Collect and upgrade NBA Heroes hero cards, action figures, toys, and secret collectibles."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -446,10 +480,10 @@
     "officialYoutube": "Roblox on YouTube",
     "vvBuilder": "Hero Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Hero Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "heroGuides": "Hero Guides",
+    "codesGuide": "Codes & Rewards",
+    "progressionGuide": "Leveling & Progression"
   }
 }
