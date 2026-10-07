@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "NBA Heroes Wiki",
+  shortName: "NBA Heroes",
+  logoText: "NH",
+  tagline: "Player Abilities, Tier Lists, Codes & Basketball Guides",
+  description: "Your ultimate NBA Heroes Roblox wiki! Explore player abilities, best heroes tier lists, active codes, 3v3 gameplay guides and basketball tips.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://nba-heroes.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://nba-heroes.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/126424052816775/NBA-Heroes",
+  heroVideoId: "OgX2qoryNbU", // NBA Heroes Roblox gameplay showcase
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
